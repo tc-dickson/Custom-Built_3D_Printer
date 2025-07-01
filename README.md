@@ -21,10 +21,11 @@ Having grown to love the hobby of 3D printing from my experience with a much mor
 
 ## What I Learned
 - I understand better the interrelation between mechanical, electrical, and software design in creating a fully functional system.
-- I learned how to follow documentation for all aspects of this project.
-- I learned the basics of computer networking in having my laptop communicate with the Raspberry Pi.
-- I learned basics of cyber security in connecting to my printer remotely through the WireGuard VPN.
+- How to follow documentation for all aspects of this project.
+- The basics of computer networking in having my laptop communicate with the Raspberry Pi.
+- The basics of cyber security in connecting to my printer remotely through the WireGuard VPN.
 - I've become more proficient in mechanical design and designing for manufacture in the realm of the FDM additive manufacturing process.
+
 ## Media
 ![Custom-Built 3D Printer](./media/printing.jpg)
 ![Custom-Built 3D Printer](./media/raspberry_pi_and_camera.jpg)
